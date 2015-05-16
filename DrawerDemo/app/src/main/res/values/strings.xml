@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DrawerDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">open ...</string>
+    <string name="drawer_close">close...</string>
+    <string-array name="planets">
+     <item>Earth</item>
+     <item>Moon</item>
+    </string-array>
+</resources>

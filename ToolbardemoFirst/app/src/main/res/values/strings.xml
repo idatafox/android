@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToolbardemoFirst</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="title_activity_liferay_video">LiferayVideo</string>
+    <string name="title_activity_liferay_article">LiferayArticle</string>
+    <string name="title_activity_liferay_test">LiferayTest</string>
+</resources>

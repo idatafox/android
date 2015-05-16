@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" android:showAsAction="never" />
+
+
+    <item android:id="@+id/action_twitter"
+        android:title="视频排行"
+        android:orderInCategory="1"
+        android:showAsAction="ifRoom|withText"
+        />
+
+    <item android:id="@+id/action_facebook"
+        android:title="问题库"
+        android:orderInCategory="2"
+        android:showAsAction="ifRoom|withText"
+        />
+
+    <item android:id="@+id/action_sina"
+        android:title="发布问题"
+        android:orderInCategory="3"
+        android:showAsAction="ifRoom|withText"
+        />
+
+    <item android:id="@+id/action_idatafox"
+        android:title="idatafox"
+        android:orderInCategory="4"
+        android:showAsAction="ifRoom|withText"
+        />
+
+
+
+
+
+</menu>

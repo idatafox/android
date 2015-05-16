@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">DrawerDemoFirst</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="planets">
+      <item>earth</item>
+       <item>sun</item>
+        <item>earth</item>
+        <item>sun</item>
+        <item>earth</item>
+        <item>sun</item>
+        <item>earth</item>
+        <item>sun</item>
+        <item>earth</item>
+        <item>sun</item>
+        <item>earth</item>
+        <item>sun</item>
+
+    </string-array>
+
+
+
+
+
+    <string-array name="stars">
+        <item>e1arth</item>
+        <item>1sun</item>
+        <item>1earth</item>
+        <item>1sun</item>
+        <item>1earth</item>
+        <item>1sun</item>
+        <item>1earth</item>
+        <item>1sun</item>
+        <item>1earth</item>
+        <item>1sun</item>
+        <item>1earth</item>
+        <item>1sun</item>
+
+    </string-array>
+
+
+
+</resources>

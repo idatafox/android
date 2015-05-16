@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">idatafox</string>
+
+    <string name="hello_world">IdataFox.com</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">refresh</string>
+    <string name="action_save">save</string>
+    <string name="action_modi">action_modi</string>
+    <string name="action_up">up</string>
+    <string name="title_activity_sub">SubActivity</string>
+    <string name="action_forward">forward</string>
+</resources>

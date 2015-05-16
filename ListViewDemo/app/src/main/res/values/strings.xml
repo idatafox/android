@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ListViewDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="titles">
+
+        <item>下载Android</item>
+        <item>安装Android</item>
+        <item>生成listView</item>
+        <item>远程访问WebService</item>
+        <item>生成ActionBar</item>
+        <item>在Android平台上进行HTML5开发</item>
+
+        <item>下载Android</item>
+        <item>安装Android</item>
+        <item>生成listView</item>
+        <item>远程访问WebService</item>
+        <item>生成ActionBar</item>
+        <item>在Android平台上进行HTML5开发</item>
+
+    </string-array>
+
+
+    <string-array name="descriptions">
+
+        <item>尊敬的同学们 ，欢迎参加学习. 尊敬的同学们 ，欢迎参加学习.尊敬的同学们 ，欢迎参加学习.</item>
+        <item>Des 2尊敬的同学们 ，欢迎参加学习. 尊敬的同学们 ，欢迎参加学习.尊敬的同学们 ，欢迎参加学习.</item>
+        <item>Des 3尊敬的同学们 ，欢迎参加学习. 尊敬的同学们 ，欢迎参加学习.尊敬的同学们 ，欢迎参加学习.</item>
+        <item>Des 4尊敬的同学们 ，欢迎参加学习. 尊敬的同学们 ，欢迎参加学习.尊敬的同学们 ，欢迎参加学习.</item>
+        <item>Des 5尊敬的同学们 ，欢迎参加学习. 尊敬的同学们 ，欢迎参加学习.尊敬的同学们 ，欢迎参加学习.</item>
+        <item>Des 6尊敬的同学们 ，欢迎参加学习. 尊敬的同学们 ，欢迎参加学习.尊敬的同学们 ，欢迎参加学习.</item>
+
+
+        <item>尊敬的同学们 ，欢迎参加学习. 尊敬的同学们 ，欢迎参加学习.尊敬的同学们 ，欢迎参加学习.</item>
+        <item>Des 2尊敬的同学们 ，欢迎参加学习. 尊敬的同学们 ，欢迎参加学习.尊敬的同学们 ，欢迎参加学习.</item>
+        <item>Des 3尊敬的同学们 ，欢迎参加学习. 尊敬的同学们 ，欢迎参加学习.尊敬的同学们 ，欢迎参加学习.</item>
+        <item>Des 4尊敬的同学们 ，欢迎参加学习. 尊敬的同学们 ，欢迎参加学习.尊敬的同学们 ，欢迎参加学习.</item>
+        <item>Des 5尊敬的同学们 ，欢迎参加学习. 尊敬的同学们 ，欢迎参加学习.尊敬的同学们 ，欢迎参加学习.</item>
+        <item>Des 6尊敬的同学们 ，欢迎参加学习. 尊敬的同学们 ，欢迎参加学习.尊敬的同学们 ，欢迎参加学习.</item>
+
+    </string-array>
+    <string name="title_activity_activity_second">ActivitySecond</string>
+
+
+</resources>
