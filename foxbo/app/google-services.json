@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "173680675993",
+    "firebase_url": "https://foxbo-c9aff.firebaseio.com",
+    "project_id": "foxbo-c9aff",
+    "storage_bucket": "foxbo-c9aff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173680675993:android:797fc7b2293966df",
+        "android_client_info": {
+          "package_name": "com.idatafox.foxbo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173680675993-fklsbm66kqlatl6tsiu5fjlp154vsl58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7KzrR_a-X9umYN4B0EVRnP7hqLIFUr8g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

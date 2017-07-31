@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">foxbo</string>
+    <string name="slogin_txt">发送post请求</string>
+</resources>
